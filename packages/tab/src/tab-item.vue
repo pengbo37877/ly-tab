@@ -1,6 +1,6 @@
 <template>
   <a class="ly-tab-item"
-       :style="$parent.value === id ? activeStyle : {}"
+       :class="{tab-item-active:$parent.value === id}"
        @click="onItemClicked">
     <div class="ly-tab-item-icon"><slot name="icon"></slot></div>
     <div class="ly-tab-item-label"><slot></slot></div>
