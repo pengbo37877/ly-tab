@@ -4,7 +4,7 @@
   "description": "A better mobile touch-swappable reusable component for vue2.*",
   "author": "PengBo <pengbo37877@gmail.com>",
   "contributors": [
-    "PengBo <pengbo37877@gmail.com>",
+    "PengBo <pengbo37877@gmail.com>"
   ],
   "scripts": {
     "dev": "webpack-dev-server --inline --open --progress --config build/webpack.dev.conf.js",
