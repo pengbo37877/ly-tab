@@ -1,11 +1,10 @@
 {
-  "name": "ly-tab",
+  "name": "pb-tab",
   "version": "1.0.3",
   "description": "A better mobile touch-swappable reusable component for vue2.*",
-  "author": "ScoutYin <yinbin_web@163.com>",
+  "author": "PengBo <pengbo37877@gmail.com>",
   "contributors": [
-    "ScoutYin <yinbin_web@163.com>",
-    "lyh2668 <lyh2668@163.com>"
+    "PengBo <pengbo37877@gmail.com>",
   ],
   "scripts": {
     "dev": "webpack-dev-server --inline --open --progress --config build/webpack.dev.conf.js",
@@ -13,7 +12,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "ly-tab": "^1.0.3",
+    "pb-tab": "^1.0.3",
     "vue": "^2.5.2"
   },
   "devDependencies": {
